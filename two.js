@@ -1,6 +1,2 @@
-function greet(name){
-console.log("hey there! "+name)
-console.log(name+" is a nice studious guy")
-}
-
-greet('Gabbar')
+console.log("hey there! Gabbar")
+console.log("Gabbar is a nice studious guy")
